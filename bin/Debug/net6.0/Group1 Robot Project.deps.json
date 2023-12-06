@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Group1 Robot Project/1.0.0": {
+        "runtime": {
+          "Group1 Robot Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Group1 Robot Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

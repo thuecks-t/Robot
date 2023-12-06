@@ -1,0 +1,14 @@
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\bin\Debug\net6.0\Group1 Robot Project.exe
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\bin\Debug\net6.0\Group1 Robot Project.deps.json
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\bin\Debug\net6.0\Group1 Robot Project.runtimeconfig.json
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\bin\Debug\net6.0\Group1 Robot Project.dll
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\bin\Debug\net6.0\Group1 Robot Project.pdb
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.AssemblyInfoInputs.cache
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.AssemblyInfo.cs
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.csproj.CoreCompileInputs.cache
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.dll
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\refint\Group1 Robot Project.dll
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.pdb
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\Group1 Robot Project.genruntimeconfig.cache
+C:\Users\wizma\Desktop\Robot Project Completed\Group1 Robot Project\obj\Debug\net6.0\ref\Group1 Robot Project.dll
